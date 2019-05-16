@@ -1,4 +1,4 @@
-title: ["YOUR TITLE HERE"]
+title: [Analysing Data with Google Docs]
 collection: lessons
 layout: lesson
 slug: [LEAVE BLANK]
