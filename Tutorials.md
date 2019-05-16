@@ -72,22 +72,6 @@ abstract: [LEAVE BLANK]
 </figure>
  - see https://programminghistorian.org/en/author-guidelines for more guidance on images.
 
-### A Sample Unordered List
-
-* Fruits
-  * Apples
-  * Oranges
-  * Grapes
-* Dairy
-  * Milk
-  * Cheese
-
-### A Sample Ordered List
-
-1. Finish tutorial
-2. Go to grocery store
-3. Prepare lunch
-
 ###A Sample Table:
 
 | Heading 1 | Heading 2 | Heading 3 |
