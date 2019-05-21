@@ -8,9 +8,9 @@
  
 By the end of the lesson, you should be able to do the following:
 
-* Be able to create equations in a Google doc
-* Be able to insert special characters
-* Be able  to share access to Google Docs with group members 
+* Enter data in an organized way in Google Sheets
+* 
+* 
 
 
 ## **Requirements** ##
