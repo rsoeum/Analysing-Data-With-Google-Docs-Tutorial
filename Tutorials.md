@@ -9,8 +9,9 @@
 By the end of the lesson, you should be able to do the following:
 
 * Enter data in an organized way in Google Sheets
-* 
-* 
+* Perform statistical analysis including standard deviation, mean, quartiles, etc.
+* Enter formulas in cells so Sheets can do the math for you
+* Link a table of your results to a Google Doc for reports/papers
 
 
 ## **Requirements** ##
